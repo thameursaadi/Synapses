@@ -129,6 +129,12 @@
     <Content Include="scripts\jquery-1.10.2.js" />
     <Content Include="scripts\jquery-1.10.2.min.js" />
     <Content Include="scripts\modernizr-2.6.2.js" />
+    <Content Include="Views\Modal\ModalAuditConsiel.html" />
+    <Content Include="Views\Modal\ModalDepannage.html" />
+    <Content Include="Views\Modal\ModalGestionReseauLocal.html" />
+    <Content Include="Views\Modal\ModalMaintenance.html" />
+    <Content Include="Views\Modal\ModalSécuritéInformatique.html" />
+    <Content Include="Views\Modal\ModalTelmaintenance.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
